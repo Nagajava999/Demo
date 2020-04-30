@@ -1,1 +1,2 @@
 HI this is new txt file
+econd line updated
